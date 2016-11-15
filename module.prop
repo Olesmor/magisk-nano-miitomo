@@ -1,0 +1,8 @@
+id=nano-miitomo
+name=Nano Miitomo
+version=1.0.20161115
+versionCode=1
+author=Nanolx
+description=Prevents Miitomo Crash (ro.debuggable)
+support=http://github.com/Nanolx/magisk-nano-miitomo
+donate=
