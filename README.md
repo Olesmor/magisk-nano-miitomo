@@ -16,9 +16,9 @@ of 'ro.debuggable' to '0'.
 This Magisk Module is meant for users that can't or don't want to use Xposed,
 Xposed users can use my [SecurityBypasser](https://github.com/Nanolx/MiitomoSecurityBypasser) Xposed module, instead.
 
-Download from 'Releases' tab on github (or create a zip file from the git repo)
-and flash the zip file using TWRP or install it using Magisk Manager. After
-you've installed it, reboot the device and Miitomo will work.
+Download 'magisk-nano-miitomo-release.zip' from on github (or create a zip file
+from the git repo) and flash the zip file using TWRP or install it using Magisk
+Manager. After you've installed it, reboot the device and Miitomo will work.
 
 For further information refer to:
 * [Magisk](http://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
